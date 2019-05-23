@@ -1,6 +1,6 @@
 # Introduction
 
-A simple CLI client-server file sharing system implemented in Java for a 2nd Year assignment as part of my Master Degree in Computer Science.
+A simple CLI client-server file sharing system implemented in Java for a 2nd Year assignment as part of my Masters Degree in Computer Science.
 
 ## Usage
 
